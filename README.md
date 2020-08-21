@@ -1,5 +1,6 @@
-# Test_LocalStorage
-## An example usage of LocalStorage
+Test_LocalStorage\
+<sup>An example usage of LocalStorage</sup>
+----------------------------
 
 ### Usage
 Ensure LocalStorage is running. Run using ```cargo run``` in console
